@@ -1,0 +1,57 @@
+.btn {
+    background: #313c42;
+    background-image: -webkit-linear-gradient(top, #313c42, #2a3136);
+    background-image: -moz-linear-gradient(top, #313c42, #2a3136);
+    background-image: -ms-linear-gradient(top, #313c42, #2a3136);
+    background-image: -o-linear-gradient(top, #313c42, #2a3136);
+    background-image: linear-gradient(to bottom, #313c42, #2a3136);
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 20px 20px 20px 20px;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  .btn:hover {
+    background: #cad3d9;
+    background-image: -webkit-linear-gradient(top, #cad3d9, #3498db);
+    background-image: -moz-linear-gradient(top, #cad3d9, #3498db);
+    background-image: -ms-linear-gradient(top, #cad3d9, #3498db);
+    background-image: -o-linear-gradient(top, #cad3d9, #3498db);
+    background-image: linear-gradient(to bottom, #cad3d9, #3498db);
+    text-decoration: none;
+  }
+
+img{
+  
+    margin-top: 5vh;
+    margin-left: 15%;
+    position: relative;
+  
+    
+}
+h1{
+    font-family: 'Space Mono', monospace;
+}
+h3{
+    font-family: 'Roboto Mono', monospace;
+}
+.text{
+    display: inline-block;
+    margin-left: 2rem;
+
+}
+.main{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    font-family: 'Roboto Slab', serif;
+    text-size-adjust: 20px;
+}
